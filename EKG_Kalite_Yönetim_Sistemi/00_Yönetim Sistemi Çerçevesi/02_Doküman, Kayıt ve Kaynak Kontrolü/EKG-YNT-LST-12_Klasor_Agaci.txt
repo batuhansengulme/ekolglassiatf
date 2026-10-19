@@ -1,0 +1,362 @@
+﻿EKG-YNT-LST-12 | KLASÖR AĞACI
+İlk yayın: 04.05.2026 | Revizyon: 19.10.2026
+256 kaynak belge kimliği + 2 ek liste kimliği; 260 özgün kaynak yolu Excel ana listesinde.
+
+EKG_Kalite_Yönetim_Sistemi/
+├── 00_Yönetim Sistemi Çerçevesi/
+│   ├── 01_Kapsam, Süreçler ve Görevler/
+│   │   ├── EKG-YNT-EKT-01_kalite_yonetim_sistemi_el_kitabi.docx
+│   │   ├── EKG-YNT-FRM-01_surec_kaplumbaga_diyagrami_her_surec_icin.xlsx
+│   │   └── EKG-YNT-MTR-04_ic_ve_dis_iletisim_musteri_temasi_ve_bildirim_yetkileri.xlsx
+│   ├── 02_Doküman, Kayıt ve Kaynak Kontrolü/
+│   │   ├── EKG-YNT-LST-02_Belge_Ana_Listesi.xlsx
+│   │   ├── EKG-YNT-LST-02_Dokuman_Numara_Listesi.pdf
+│   │   ├── EKG-YNT-LST-03_kalite_kayitlari_ve_saklama_sureleri_listesi.docx
+│   │   ├── EKG-YNT-LST-04_dis_kaynakli_dokuman_listesi.xlsx
+│   │   ├── EKG-YNT-LST-09_dokuman_dagitim_listesi.xlsx
+│   │   ├── EKG-YNT-LST-10_arsiv_giris_ve_imha_listesi.docx
+│   │   ├── EKG-YNT-LST-12_Klasor_Agaci.txt
+│   │   ├── EKG-YNT-PRS-01_dokuman_kontrolu_proseduru.docx
+│   │   ├── EKG-YNT-PRS-07_kayitlarin_kontrolu_proseduru.docx
+│   │   └── EKG-YNT-TLM-02_dokuman_hazirlama_kodlama_onaylama_ve_yayimlama_talimat.docx
+│   ├── 03_Politika, Hedefler ve Yönetim/
+│   │   ├── EKG-YNT-FRM-02_yonetimin_gozden_gecirmesi_tutanagi.xlsx
+│   │   ├── EKG-YNT-PLN-04_kalite_ve_lojistik_hedefleri_ve_gidisat_plani.xlsx
+│   │   ├── EKG-YNT-PRS-03_yonetimin_gozden_gecirmesi_proseduru.docx
+│   │   └── EKG-YNT-STD-03_kalite_ve_lojistik_gosterge_tanimlari_veri_kaynagi_ve_h.docx
+│   ├── 04_İç Tetkik ve İyileştirme/
+│   │   ├── EKG-KLT-FRM-17_ic_denetim_soru_formu.xlsx
+│   │   ├── EKG-KLT-FRM-18_ic_denetim_rapor_formu.docx
+│   │   ├── EKG-KLT-LST-08_nitelikli_ic_tetkikci_listesi_ve_yillik_plan.xlsx
+│   │   ├── EKG-KLT-PLN-04_yillik_ic_tetkik_programi.xlsx
+│   │   ├── EKG-KLT-PRS-19_ic_tetkik_proseduru.docx
+│   │   ├── EKG-KLT-PRS-20_surekli_iyilestirme_proseduru.docx
+│   │   └── EKG-KLT-PRS-24_ic_tetkikci_ve_ikinci_taraf_tetkikci_yetkinlik_prosedur.docx
+│   ├── 05_Ürün Güvenliği, Mevzuat ve Sorumluluk/
+│   │   ├── EKG-KLT-FRM-05_malzeme_uygunluk_beyani_reach__elv_ve_imds_kaydi.xlsx
+│   │   ├── EKG-KLT-MTR-01_urun_mevzuati_varis_ulkesi_tip_onayi_ve_uretim_uygunlug.xlsx
+│   │   ├── EKG-KLT-PRS-12_urun_guvenligi_proseduru.docx
+│   │   ├── EKG-PRJ-TLM-01_proje_gizliligi_ve_guvenlik_talimati.docx
+│   │   ├── EKG-YNT-ETK-01_etik_ve_davranis_kurallari.docx
+│   │   ├── EKG-YNT-LST-08_ecovadis_degerlendirmesi_ve_sorumlu_satinalma_taahhudu.xlsx
+│   │   └── EKG-YNT-PRS-06_musteri_mulkiyeti_urun_cizim_numune_ve_verilerin_korunm.docx
+│   ├── 06_Müşteri ve Sözleşme Yönetimi/
+│   │   ├── EKG-KLT-GAR-01_garanti_sartlari.docx
+│   │   ├── EKG-KLT-TLM-01_tasima_depolama_ve_kullanim_talimati_musteriye_yonelik.docx
+│   │   ├── EKG-SAT-FRM-01_satis_teklif_ve_siparis_formu.xlsx
+│   │   ├── EKG-SAT-FRM-05_musteri_memnuniyet_anketi.xlsx
+│   │   ├── EKG-SAT-PRS-01_satis_teklif_ve_siparis_proseduru.docx
+│   │   └── EKG-SAT-SOZ-01_karsilikli_gizlilik_sozlesmesi__nda.docx
+│   └── 07_İş Güvenliği ve Çevre Bağlantıları/
+│       ├── EKG-ISG-PRS-02_ergonomi_proseduru_ve_ergonomik_risk_degerlendirmesi.docx
+│       └── EKG-ISG-PRS-03_cevre_boyutlari_ve_atik_yonetimi_proseduru_cam_kirigi_b.docx
+├── 01_Kurumsal Yönetim - Tesis/
+│   ├── 01_CMP1 - Müşteri Şartları ve Belgelendirme/
+│   │   ├── EKG-YNT-LST-13_stellantis_nsa_hazirlik_ve_kanit_takip_cizelgesi.xlsx
+│   │   ├── EKG-YNT-MTR-01_stellantis_csr_uyum_matrisi_gereklilik__ekol_belgesi.xlsx
+│   │   ├── EKG-YNT-PRS-02_musteriye_ozel_gereklilikler_csr_yonetimi_proseduru.docx
+│   │   └── EKG-YNT-TLM-03_stellantis_nsa_kaynak_durum_ve_degerlendirme_kontrol_ta.docx
+│   ├── 02_CMP2 - Risk, İş Sürekliliği ve Bilgi Sistemleri/
+│   │   ├── EKG-URT-FRM-11_kesinti_sonrasi_yeniden_baslatma_ve_urun_uygunlugu_dogr.xlsx
+│   │   ├── EKG-YNT-FRM-03_acil_durum_tatbikat__simulasyon_kaydi.xlsx
+│   │   ├── EKG-YNT-FRM-05_periyodik_is_surekliligi_risk_gozden_gecirme_ve_aksiyon.xlsx
+│   │   ├── EKG-YNT-LST-07_sigorta_risk_denetimi_oneri_takip_listesi_emlmfl.xlsx
+│   │   ├── EKG-YNT-MTR-02_fabrika_risk_analizi_ana_guvence_plani__risk_haritasi.xlsx
+│   │   ├── EKG-YNT-PLN-05_acil_durum_reaksiyon_planlari_risk_bazinda.xlsx
+│   │   ├── EKG-YNT-PRS-04_risk_ve_firsatlarin_yonetimi_proseduru.docx
+│   │   └── EKG-YNT-PRS-05_is_surekliligi_ve_acil_durum_planlama_proseduru.docx
+│   └── 03_CMP3 - Tedarikçi ve Dış Kaynak Yönetimi/
+│       ├── EKG-STN-FRM-01_tedarikci_performans_degerlendirme_formu.docx
+│       ├── EKG-STN-FRM-03_tiern_risk_siniflandirmasi_ve_yillik_gozden_gecirme_for.xlsx
+│       ├── EKG-STN-FRM-04_tedarikci_uygunsuzluk_bildirim_formu.xlsx
+│       ├── EKG-STN-FRM-05_tedarikci_secim_ve_onay_degerlendirme_formu.xlsx
+│       ├── EKG-STN-FRM-06_tiern_gereklilik_aktarim_ve_onay_teblig_formu.xlsx
+│       ├── EKG-STN-FRM-08_dis_kaynak_toz_boya_sevkdonus_lot_eslestirme_ve_kabul_k.xlsx
+│       ├── EKG-STN-LST-01_onayli_tedarikci_listesi.xlsx
+│       ├── EKG-STN-MTR-02_tier2_yeterlilik_ve_ppap_takip_matrisi_bom__tedarikci.xlsx
+│       ├── EKG-STN-PLN-01_yillik_tedarikci_denetim_programi_ve_aksiyon_takibi.xlsx
+│       ├── EKG-STN-PLN-02_tedarik_guvence_plani_ve_riskli_tedarikci_listesi.xlsx
+│       ├── EKG-STN-PLN-04_dis_kaynak_toz_boya_proses_yeterlilik_giris_kontrol_ve.xlsx
+│       ├── EKG-STN-PRS-01_satin_alma_ve_tedarikci_degerlendirme_proseduru.docx
+│       ├── EKG-STN-PRS-02_tedarikci_eskalasyon_proseduru_ve_kritik_tedarikci_list.docx
+│       ├── EKG-STN-STD-01_tedarikci_kalite_gereklilikleri_sartnamesi_csr_ve_ozel.docx
+│       ├── EKG-STN-STD-02_alt_tedarikci_lojistik_gereklilikleri_ve_aktarim_standa.docx
+│       ├── EKG-STN-TLM-01_tedarikci_degerlendirme_talimati.docx
+│       └── EKG-STN-TLM-02_dis_kaynak_toz_boyaya_sevk_ve_parti_takip_talimati.docx
+├── 02_Proje ve Ürün-Proses Yeterliliği/
+│   ├── 01_CMG1 - APQP, Fizibilite ve Kaynaklar/
+│   │   ├── EKG-PRJ-FRM-01_proje_ekibi_olusturma_formu.xlsx
+│   │   ├── EKG-PRJ-FRM-02_proje_kapi_gate_gozden_gecirme_tutanagi.xlsx
+│   │   ├── EKG-PRJ-FRM-25_otomotiv_cami_apqp_formlari__birlesik_calisma_kitabi.xlsx
+│   │   ├── EKG-PRJ-KLV-01_apqp_ve_ppap_surecleri_ve_formlari_kilavuzu.docx
+│   │   ├── EKG-PRJ-MTR-01_proje_kaynak_ve_is_yuku_matrisi.xlsx
+│   │   ├── EKG-PRJ-PLN-02_ozel_karakteristik_uygunlugu_ve_proses_yeterliligi_gidi.xlsx
+│   │   └── EKG-PRJ-PRS-01_yeni_urun_devreye_alma_proseduru.docx
+│   ├── 02_CMG2 - PPQ, PPAP, Ekipman ve Tier-2/
+│   │   ├── EKG-PRJ-FRM-09_ekipman_kabul_raporu_ve_ekipman_teknik_dosyasi.xlsx
+│   │   ├── EKG-PRJ-FRM-13_ppq_oz_degerlendirme_ve_ppap_dosya_kontrol_listesi.xlsx
+│   │   ├── EKG-PRJ-FRM-21_proses_dogrulama_gecerli_kilma_ve_yeterlilik_sonuc_rapo.xlsx
+│   │   ├── EKG-PRJ-FRM-23_ppap_sunum_indeksi_psw__parca_sunum_garantisi_ve_muster.xlsx
+│   │   ├── EKG-PRJ-PLN-05_proses_dogrulama_ve_gecerli_kilma_plani_urun_ekipman_ka.xlsx
+│   │   ├── EKG-PRJ-PRS-04_urun_onay_proseduru_ppap__stellantis_ppq.docx
+│   │   └── EKG-PRJ-PRS-07_ekipman_ve_takim_kabul_yeterlilik_proseduru.docx
+│   └── 03_CMG3 - PIS, CTF ve Özel Karakteristikler/
+│       ├── EKG-PRJ-FRM-22_parca_muayene_standardi_pis__pcp_hazirlama_revizyon_ve.xlsx
+│       ├── EKG-PRJ-LST-03_ozel_karakteristikler_listesi_ve_karakteristik_baglanti.xlsx
+│       ├── EKG-PRJ-LST-04_gecis_passthrough_karakteristikleri_listesi.xlsx
+│       ├── EKG-PRJ-LST-05_sahadaki_cizim_ve_spesifikasyon_revizyon_listesi.xlsx
+│       ├── EKG-PRJ-PRS-03_ozel_karakteristikler_yonetimi_proseduru.docx
+│       ├── EKG-PRJ-PRS-06_muhendislik_spesifikasyonlari_ve_cizim_revizyon_kontrol.docx
+│       └── EKG-TAS-MTR-01_otomotiv_cami_ctf__pis_teknik_kanit_uygunluk_matrisi.xlsx
+├── 03_Hızlı Müdahale ve Problem Çözme/
+│   ├── 01_FR1 - Günlük Toplantı ve Görsel Yönetim/
+│   │   ├── EKG-LOJ-PNO-01_gunluk_tedarik_zinciri_kritik_toplanti_panosu.xlsx
+│   │   ├── EKG-URT-FRM-08_hizli_mudahale_acik_madde_cikis_kriteri_ve_aksiyon_taki.xlsx
+│   │   ├── EKG-URT-FRM-09_saha_turu_ve_vardiya_amirinin_gunluk_kontrol_listesi.xlsx
+│   │   ├── EKG-URT-PNO-01_hizli_mudahale_panosu_son_24_saat_acik_maddeler_ve_gost.docx
+│   │   ├── EKG-URT-PNO-02_uretim_performans_panosu.xlsx
+│   │   └── EKG-URT-PRS-07_hizli_mudahale_ve_gunluk_uretim_liderlik_toplantisi_pro.docx
+│   ├── 02_FR2 - Eskalasyon ve Müşteri Koruma/
+│   │   ├── EKG-KLT-FRM-12_kalite_alarmi_formu.xlsx
+│   │   ├── EKG-KLT-FRM-36_musteri_koruma_temiz__kirli_sinir_ve_ilk_sertifikali_se.xlsx
+│   │   ├── EKG-KLT-PRS-13_eskalasyon_proseduru_ve_eskalasyon_matrisi_uretim_kalit.docx
+│   │   └── EKG-KLT-PRS-14_standart_reaksiyon_ve_musteri_bildirim_proseduru_kirilm.docx
+│   └── 03_FR3 - Kök Neden ve Yatay Yaygınlaştırma/
+│       ├── EKG-KLT-FRM-07_duzeltici_faaliyet_istek_formu.xlsx
+│       ├── EKG-KLT-FRM-13_a3_problem_cozme_formu.xlsx
+│       ├── EKG-KLT-FRM-14_5_neden_kok_neden_analizi_formu.xlsx
+│       ├── EKG-KLT-FRM-27_yatay_yayginlastirma_ve_tekrar_onleme_uygulama_kaydi.xlsx
+│       ├── EKG-KLT-FRM-37_temperli_cam_kok_neden_ve_aksiyon_analizi__6m.xlsx
+│       ├── EKG-KLT-LST-05_duzeltici_faaliyet_takip_listesi.xlsx
+│       └── EKG-KLT-PRS-15_duzeltici_faaliyet_proseduru.docx
+├── 04_Parça ve Proses Kontrolü/
+│   ├── 01_PPC1 - Kontrol Planı, Muayene ve Serbest Bırakma/
+│   │   ├── EKG-KLT-FRM-21_proses_kontrol_kayit_sablonu_parca_karakteristik_cihaz.xlsx
+│   │   ├── EKG-KLT-FRM-25_final_kontrol_raporu.xlsx
+│   │   ├── EKG-KLT-KLV-01_kontrol_plani_metodolojisi_kilavuzu.pdf
+│   │   ├── EKG-KLT-PNO-01_parca_ve_proses_kontrol_kpi_panosu.docx
+│   │   └── EKG-KLT-STD-06_cam_ve_pencere_modulu_kalite_kabul_standardi__taslak.docx
+│   ├── 02_PPC2 - MSA, Kalibrasyon ve SPC/
+│   │   ├── EKG-KLT-FRM-26_kalibrasyonu_uygunsuz__suresi_gecmis_cihazla_olculen_ur.xlsx
+│   │   ├── EKG-KLT-FRM-29_cam_hatti_olcum_sistemleri_analizi_formlari__msa.xlsx
+│   │   ├── EKG-KLT-FRM-33_cam_hatti_spc_analiz_formlari__xbar_r_ve_p_karti.xlsx
+│   │   ├── EKG-KLT-LST-01_olcum_aletleri_ve_kalibrasyon_listesi.xlsx
+│   │   ├── EKG-KLT-PRS-02_olcum_sistemleri_analizi_msa_proseduru.docx
+│   │   └── EKG-KLT-PRS-03_kalibrasyon_proseduru.docx
+│   ├── 03_PPC3 - Güvenli Lansman ve Güçlendirilmiş Kontrol/
+│   │   ├── EKG-KLT-FRM-35_guclendirilmis_kontrol_kapasite_dogrulamasi_ve_cikis_on.xlsx
+│   │   ├── EKG-KLT-PLN-02_guvenli_lansman_plani__tris.xlsx
+│   │   ├── EKG-KLT-PRS-06_guvenli_lansman_ve_guclendirilmis_kontrol_proseduru_mus.docx
+│   │   ├── EKG-KLT-TLM-03_kalite_duvari_is_talimati_ve_muayene_kayit_formu.docx
+│   │   └── EKG-KLT-TLM-04_sinir_numune_ve_referans_parca_yonetimi_talimati_tanim.docx
+│   └── 04_Laboratuvar, COP ve Test Kapsamı/
+│       ├── EKG-KLT-FRM-23_dis_laboratuvar__kalibrasyon_saglayicisi_kapsam_ve_yete.xlsx
+│       ├── EKG-KLT-FRM-38_ece_r43_parcalanma_test_raporu__alternatif_duzen.xlsx
+│       ├── EKG-KLT-LST-04_ic_laboratuvar_kapsami_test_metotlari_ve_yetkili_person.xlsx
+│       ├── EKG-KLT-PRS-05_ic_ve_dis_laboratuvar_yonetimi_proseduru_cop_ve_musteri.docx
+│       └── EKG-KLT-PRS-22_ece_r43_cam_kontrol_ve_parcalanma_testi_proseduru.docx
+├── 05_Üretime Başlangıç ve Hata Önleme/
+│   ├── 01_SP&EP1 - Başlangıç ve İlk Parça/ [boş]
+│   ├── 02_SP&EP2 - Hata Önleme ve Alternatif Kontrol/ [boş]
+│   └── 03_SP&EP3 - Seviye 1 Operatör Bakımı/ [boş]
+├── 06_Garanti Sorunları Yönetimi/
+│   ├── 01_WIM1 - Koordinatör, Portal ve İade Parça/
+│   │   ├── EKG-KLT-FRM-40_garanti_koordinatoru_ve_gorev_atama_kaydi.xlsx
+│   │   ├── EKG-KLT-LST-06_garanti_iade_parca_takip_ve_uzman_listesi.xlsx
+│   │   ├── EKG-KLT-LST-07_garanti_portali_gunluk_inceleme_ve_pareto_kaydi.xlsx
+│   │   └── EKG-KLT-PNO-02_garanti_gostergeleri_ve_is_istasyonu_uyari_panosu.xlsx
+│   ├── 02_WIM2 - Ön Analiz, Kaynak ve Çevreleme/
+│   │   ├── EKG-KLT-FRM-39_garanti_arizasini_tekrar_olusturma_ve_test_sonuclari.xlsx
+│   │   ├── EKG-KLT-FRM-42_garanti_on_analiz_kontrol_listesi_ve_raporu.xlsx
+│   │   └── EKG-KLT-MTR-02_garanti_olayi_ciddiyeti_ve_eskalasyon_matrisi.xlsx
+│   └── 03_WIM3 - Müşteri Koruma, Tier-N ve TSB/
+│       ├── EKG-KLT-FRM-41_garanti_kriz_yonetimi_kontrol_listesi.xlsx
+│       └── EKG-KLT-MTR-03_garanti_sonrasi_pfmea_ve_kontrol_plani_guclendirme_matr.xlsx
+├── 07_Standart İş ve Uygunsuz Ürün/
+│   ├── 01_SW1 - Standart İş, İş Yeri ve Görsel Yönetim/
+│   │   ├── EKG-URT-FRM-07_5s_degerlendirme_formu.xlsx
+│   │   ├── EKG-URT-FRM-13_standart_gorev_foyu_sgf_sablonu.xlsx
+│   │   ├── EKG-URT-FRM-14_standart_operasyon_foyu_sos_sablonu.xlsx
+│   │   ├── EKG-URT-LST-01_kontaminasyon_risk_alanlari_listesi.xlsx
+│   │   ├── EKG-URT-MTR-01_standart_is_talimati_kapsam_matrisi.xlsx
+│   │   ├── EKG-URT-PRS-08_is_yeri_duzeni_ve_5s_proseduru.docx
+│   │   ├── EKG-URT-PRS-11_standart_is_talimati_hazirlama_ve_yonetimi_proseduru.docx
+│   │   └── EKG-URT-STD-01_zemin_isaretleme_ve_renk_kodu_standardi.docx
+│   ├── 02_SW2 - Yeniden İşleme ve Özel Proses/
+│   │   ├── EKG-URT-FRM-15_yeniden_isleme_kontrol_ve_izlenebilirlik_takip_formu.xlsx
+│   │   ├── EKG-URT-FRM-16_yeniden_isleme_ve_akisa_donus_kayit_formu.xlsx
+│   │   ├── EKG-URT-PRS-09_ozel_prosesler_ve_parametre_izleme_proseduru.docx
+│   │   ├── EKG-URT-PRS-13_yeniden_isleme_ve_tamir_proseduru.docx
+│   │   └── EKG-URT-TLM-23_urun_ve_islem_bazli_yeniden_isleme_ve_tamir_talimati.docx
+│   ├── 03_SW3 - Tanımlama, Karantina ve Bertaraf/
+│   │   ├── EKG-KLT-FRM-06_hata_raporu_ve_uygunsuz_urun_karar_formu.docx
+│   │   └── EKG-KLT-PRS-16_uygun_olmayan_urun_kontrol_proseduru.docx
+│   ├── 04_Cam Üretimi Operasyon Talimatları/
+│   │   ├── EKG-URT-TLM-13_cam_isleme_delme_ve_centik_operasyon_talimati.docx
+│   │   └── EKG-URT-TLM-16_cam_yikama_ve_kurutma_operasyon_talimati.docx
+│   └── 05_Çerçeve, Fitil ve Montaj Operasyon Talimatları/
+│       ├── EKG-URT-TLM-10_aluminyum_cam_citasi_kesme_ve_hazirlama_talimati.docx
+│       ├── EKG-URT-TLM-11_aluminyum_profil_bukme_is_talimati.docx
+│       ├── EKG-URT-TLM-12_aluminyum_cerceve_profili_kesme_is_talimati.docx
+│       ├── EKG-URT-TLM-14_floklu_epdm_fitil_boy_ve_yaricap_kesme_talimati.docx
+│       ├── EKG-URT-TLM-15_cam_takozlama_ve_cam_montaj_is_talimati.docx
+│       ├── EKG-URT-TLM-17_epdm_cita_fitili_kesme_ve_hazirlama_talimati.docx
+│       ├── EKG-URT-TLM-18_epdm_sizdirmazlik_fitili_boy_ve_yaricap_kesme_talimati.docx
+│       ├── EKG-URT-TLM-19_kol_kilit_ve_vida_baglantisi_montaj_talimati.docx
+│       ├── EKG-URT-TLM-20_profil_kaynagi_operasyon_ve_parametre_talimati.docx
+│       ├── EKG-URT-TLM-21_profil_yuzey_zimpara_ve_boyaya_hazirlik_talimati.docx
+│       ├── EKG-URT-TLM-22_su_tahliye_deligi_ve_kanali_acma_talimati.docx
+│       └── EKG-URT-TLM-24_yapistirici_uygulama_ve_kurlenme_talimati.docx
+├── 09_Risk Azaltma ve PFMEA/
+│   ├── 01_RR1 - PFMEA ve Müşteri Puanlama Kuralları/
+│   │   ├── EKG-PRJ-FRM-03_aile_ve_urune_ozel_pfmea_sablonu.xlsx
+│   │   ├── EKG-PRJ-FRM-31_pfmea_oz_degerlendirme_ve_onay_kontrol_listesi.xlsx
+│   │   ├── EKG-PRJ-FRM-32_stellantis_pfmea_sentez_sablonu.xlsx
+│   │   ├── EKG-PRJ-KLV-02_pfmea_puanlama_ve_stellantis_aksiyon_onceligi_kilavuzu.docx
+│   │   ├── EKG-PRJ-MTR-02_pfmea_ekibi_egitim_ve_yetkinlik_matrisi.xlsx
+│   │   └── EKG-PRJ-PRS-02_pfmea_ve_risk_azaltma_proseduru.docx
+│   ├── 02_RR2 - Risk Aksiyonları ve Türev Akışlar/
+│   │   ├── EKG-PRJ-FRM-30_pfmea_gozden_gecirme_tutanagi_ve_reaktif_5_neden_formu.xlsx
+│   │   └── EKG-PRJ-LST-07_pfmea_aksiyon_ve_en_yuksek_risk_azaltma_firsatlari_list.xlsx
+│   └── 03_RR3 - Ters PFMEA ve Öğrenilmiş Dersler/
+│       ├── EKG-PRJ-PRS-10_ogrenilen_dersler_proseduru_ve_veri_tabani.xlsx
+│       └── EKG-PRJ-TLM-02_ters_pfmea_talimati_kontrol_listesi_ve_yillik_cizelge.xlsx
+├── 10_Değişiklik ve Geçici Proses Kontrolü/
+│   ├── 01_MC1 - Talep, Etki ve Müşteri Onayı/
+│   │   ├── EKG-PRJ-FRM-26_degisiklik_sonrasi_dogrulama_ve_yeniden_yeterlilik_kayd.xlsx
+│   │   ├── EKG-PRJ-FRM-27_degisiklik_talebi_ve_musteri_onay_formu__word_duzeni.docx
+│   │   ├── EKG-PRJ-FRM-28_degisiklik_talebi_ve_musteri_onay_formu__excel_duzeni.xlsx
+│   │   ├── EKG-PRJ-FRM-33_ptr_deneme_uretimi_ve_gecici_talimat_formu.xlsx
+│   │   ├── EKG-PRJ-LST-06_muhendislik_ve_proses_degisiklik_kutugu.xlsx
+│   │   ├── EKG-PRJ-PRS-08_degisiklik_yonetimi_proseduru_ve_risk_matrisi__word_duz.docx
+│   │   └── EKG-PRJ-PRS-09_degisiklik_yonetimi_proseduru_ve_matrisi__excel_duzeni.xlsx
+│   └── 02_Geçici Kontrol, By-pass ve Asıl Prosese Dönüş/
+│       ├── EKG-PRJ-FRM-29_gecici_proses_ve_asil_prosese_donus_onay_kaydi.xlsx
+│       └── EKG-URT-PRS-10_proses_bypass_kontrol_proseduru.docx
+├── 11_Bakım, Yedek Parça ve Takımlar/
+│   ├── 01_MAI1 - Bakım Planı ve Gerçekleşme/
+│   │   ├── EKG-BAK-FRM-01_ekipman_bazli_bakim_gorev_foyleri.xlsx
+│   │   ├── EKG-BAK-FRM-02_bakim_is_emri_ve_makine_gecmis_karti.xlsx
+│   │   ├── EKG-BAK-FRM-03_bakim_sonrasi_uretime_teslim_kontrol_formu.xlsx
+│   │   ├── EKG-BAK-LST-01_ekipman_envanteri_ve_abc_kritiklik_listesi.xlsx
+│   │   ├── EKG-BAK-LST-02_ertelenen_bakim_gorevleri_takip_listesi.xlsx
+│   │   ├── EKG-BAK-PNO-01_bakim_kpi_panosu.xlsx
+│   │   └── EKG-BAK-PRS-01_toplam_verimli_bakim_proseduru_ve_takip_matrisi.xlsx
+│   ├── 02_MAI2 - Kritik Yedekler ve Stok/ [boş]
+│   └── 03_MAI3 - Müşteri ve Üretim Takımları/
+│       ├── EKG-BAK-LST-03_takim_ana_listesi_ve_omur_takip_karti.xlsx
+│       └── EKG-BAK-PRS-02_takim_ve_kalip_yonetimi_proseduru_ve_matrisi.xlsx
+├── 12_Üretim ve Malzeme Akış Yönetimi/
+│   ├── 01_MMFM1 - Planlama ve İzlenebilirlik/
+│   │   ├── EKG-LOJ-FRM-04_etiket_basim_ve_tarama_dogrulama_kaydi.xlsx
+│   │   ├── EKG-LOJ-FRM-06_izlenebilirlik_geri_izleme_tatbikat_kaydi.xlsx
+│   │   ├── EKG-LOJ-FRM-07_lojistik_performans_veri_kaydi.xlsx
+│   │   ├── EKG-LOJ-MTR-04_lojistik_akis_risk_analizi.xlsx
+│   │   ├── EKG-LOJ-PRS-04_izlenebilirlik_proseduru_ve_tatbikat_kaydi.xlsx
+│   │   ├── EKG-URT-FRM-12_saatlik_uretim_takip_foyu.xlsx
+│   │   └── EKG-URT-PRS-12_uretim_planlama_proseduru.docx
+│   ├── 02_MMFM2 - Kapasite ve Darboğaz Yönetimi/
+│   │   └── EKG-LOJ-MTR-03_kaynak_ve_esneklik_risk_degerlendirmesi.xlsx
+│   └── 03_MMFM3 - Hat Besleme ve İç Akış/
+│       ├── EKG-LOJ-FRM-05_hat_basi_malzeme_dogrulama_formu.docx
+│       └── EKG-LOJ-PLN-02_her_parca_ve_malzeme_icin_plan__pfep.xlsx
+├── 13_Giriş Lojistiği ve Depolama/
+│   ├── 01_ILG1 - Mal Kabul ve Gelen Kontrol/ [boş]
+│   ├── 02_ILG2 - Tedarik Alarmı, EDI ve Protokoller/
+│   │   ├── EKG-LOJ-MTR-05_teslimat_takip_ve_gelen_malzeme_alarm_matrisi.xlsx
+│   │   ├── EKG-LOJ-PRT-01_lojistik_protokolu__teslimat_ve_tasima_sartlari.docx
+│   │   └── EKG-LOJ-TLM-03_edi_kullanim_talimati_ve_yedek_cozum_plani.xlsx
+│   └── 03_ILG3 - Depolama, FIFO ve Raf Ömrü/
+│       ├── EKG-LOJ-FRM-03_devirli_sayim_ve_hareketsiz_stok_karar_kaydi.xlsx
+│       ├── EKG-LOJ-MTR-02_depolama_ve_ic_tasima_denetim_ve_risk_matrisi.xlsx
+│       ├── EKG-LOJ-PRS-06_stok_yonetimi_ve_izlenebilirlik_proseduru.docx
+│       └── EKG-LOJ-TLM-02_depolama_ve_ic_tasima_standart_is_talimati.docx
+├── 14_Çıkış Lojistiği ve Ambalaj/
+│   ├── 01_OLG1 - Sevkiyat ve Müşteri Alarmı/
+│   │   ├── EKG-LOJ-FRM-08_sevkiyat_kilometre_taslari_ve_musteri_alarm_bildirim_ka.xlsx
+│   │   ├── EKG-LOJ-PRS-05_musteri_alarmi_ve_sevkiyat_riski_yonetim_proseduru.docx
+│   │   └── EKG-LOJ-TLM-04_sevkiyat_bildirimi_asn_gonderim_talimati.docx
+│   ├── 02_OLG2 - Ambalaj Kalitesi ve Boş Ambalaj/
+│   │   ├── EKG-LOJ-FRM-01_ambalaj_uygunluk_ve_stok_takip_kaydi.xlsx
+│   │   ├── EKG-LOJ-FRM-02_ambalaj_test_raporu_ve_ambalaj_onay_formu.xlsx
+│   │   ├── EKG-LOJ-MTR-01_ambalaj_muayene_ve_karar_matrisi.xlsx
+│   │   ├── EKG-LOJ-PRS-01_ambalaj_gelistirme_ve_validasyon_proseduru.docx
+│   │   ├── EKG-LOJ-PRS-02_dongusel_ambalaj_akis_yonetimi_proseduru__dolu_bos.docx
+│   │   └── EKG-LOJ-PRS-03_ambalaj_akis_yonetimi_proseduru__genel_akis.docx
+│   └── 03_OLG3 - Sıralı Akış ve Bozulmuş Modlar/
+│       └── EKG-LOJ-TLM-01_bozulmus_mod_sira_koruma_ve_acil_stok_yonetimi_talimati.docx
+├── 15_Katmanlı Denetim ve Yetkinlik/
+│   ├── 01_LPASK1-2 - LPA, Takvim ve Karşı Önlem/
+│   │   ├── EKG-KLT-FRM-43_lpa_kontrol_ve_karsi_onlem_formu.xlsx
+│   │   ├── EKG-KLT-FRM-44_stok_alani_katmanli_denetim_kontrol_listesi.xlsx
+│   │   ├── EKG-KLT-PLN-09_lpa_plani_ve_istasyon_imza_cizelgesi.xlsx
+│   │   └── EKG-KLT-PRS-23_katmanli_proses_denetimi_lpa_proseduru.docx
+│   ├── 02_LPASK3 - Eğitim ve Operatör Yeterliliği/
+│   │   ├── EKG-IK-MTR-01_egitim_yetkinlik_ve_lojistik_ilu_matrisi.xlsx
+│   │   ├── EKG-IK-PLN-01_esneklik_cizelgesi_ve_haftalik_rotasyon_plani.xlsx
+│   │   ├── EKG-IK-PLN-02_gorev_rotasyon_plani_ve_is_gucu_yonetimi.xlsx
+│   │   └── EKG-IK-PRS-01_calisan_farkindaligi_ve_motivasyonu_proseduru.docx
+│   └── 03_Öznel Kontrol Yapan Personelin Değerlendirilmesi/
+│       ├── EKG-IK-FRM-01_operator_karar_uyum_ve_yeniden_yetkilendirme_kaydi.xlsx
+│       └── EKG-IK-LST-01_oznel_kontrol_operasyonlari_ve_yetkili_personel_listesi.xlsx
+├── 16_Ürün Tasarımı ve Teknik Doğrulama/
+│   ├── 01_Tasarım Girdileri, Malzeme ve Ürün Ağacı/
+│   │   ├── EKG-TAS-FRM-02_malzeme_secimi_ve_teknik_gerekce_kaydi.xlsx
+│   │   ├── EKG-TAS-LST-02_tasarim_ve_malzeme_onay_kontrol_listesi.xlsx
+│   │   ├── EKG-TAS-LST-03_urun_agaci_bom_ve_malzeme_teknik_sartlari.xlsx
+│   │   └── EKG-TAS-PLN-02_urun_tasarim_girdileri_ve_validasyon_takvimi.xlsx
+│   ├── 02_DFMEA ve Tasarım Gözden Geçirme/
+│   │   ├── EKG-TAS-FRM-01_dfmea_sentezi_ve_ozel_onay_kaydi.xlsx
+│   │   ├── EKG-TAS-FRM-04_tasarim_fmea_ve_csr_matrisi.xlsx
+│   │   ├── EKG-TAS-FRM-05_tasarim_gozden_gecirme_tutanagi__excel_duzeni.xlsx
+│   │   ├── EKG-TAS-FRM-07_urun_tasarimi_gozden_gecirme_tutanagi__word_duzeni.docx
+│   │   └── EKG-TAS-LST-01_dfmea_risk_azaltma_ve_kapanis_takip_listesi.xlsx
+│   └── 03_Tasarım Doğrulama, Test ve Onay/
+│       ├── EKG-TAS-FRM-03_tasarim_dogrulama_ve_test_sonuc_raporu.xlsx
+│       ├── EKG-TAS-FRM-06_tasarim_onayi_ve_seri_uretime_devir_kaydi.xlsx
+│       └── EKG-TAS-PLN-01_tasarim_dogrulama_ve_gecerli_kilma_test_plani__dvpr.xlsx
+├── 90_NSA, MPA ve PPQ Hazırlık Araçları/
+│   ├── 01_Kaynak Form, Kriter ve Kanıt Takibi/
+│   │   ├── EKG-YNT-LST-11_surec_ve_kanit_sorumlusu_atama_listesi__iso_9001_icerig.xlsx
+│   │   ├── EKG-YNT-MTR-05_saha_kaniti_izlenebilirlik_matrisi__word_duzeni.docx
+│   │   └── EKG-YNT-MTR-06_saha_kaniti_izlenebilirlik_matrisi__excel_duzeni.xlsx
+│   └── 02_Öz Değerlendirme ve Aksiyon Yönetimi/
+│       ├── EKG-KLT-PLN-10_qsb_arti_oz_degerlendirme_ve_aksiyon_plani.xlsx
+│       ├── EKG-LOJ-PLN-01_mmog_le_oz_degerlendirme_ve_aksiyon_plani.xlsx
+│       ├── EKG-YNT-PLN-06_nsa_mpa_bulgusu_duzeltici_aksiyon_ve_etkinlik_kapatma_p.xlsx
+│       └── EKG-YNT-PRS-08_nsa_mpa_ppq_ic_hazirlik_ve_kanitli_oz_degerlendirme_pro.docx
+├── 98_Uygulama_Kayıtları/
+│   ├── 00_Yönetim Sistemi Çerçevesi/
+│   │   └── EKG-KLT-PLN-06_yillik_ic_denetim_plani__2024.xlsx
+│   ├── 01_Kurumsal Yönetim - Tesis/ [boş]
+│   ├── 02_Proje ve Ürün-Proses Yeterliliği/
+│   │   ├── EKG-PRJ-FRM-07_surgulu_cam_proses_akis_semasi.pdf
+│   │   ├── EKG-PRJ-FRM-24_is_akis_semasi__ske_metal_proses_ornegi.xlsx
+│   │   └── EKG-PRJ-PLN-01_apqp_prototip_ve_seri_uretim_zaman_plani__tris.xlsx
+│   ├── 03_Hızlı Müdahale ve Problem Çözme/
+│   │   └── EKG-KLT-FRM-02_8d_duzeltici_ve_onleyici_faaliyet_formu__dolu_ornek.xlsx
+│   ├── 04_Parça ve Proses Kontrolü/
+│   │   ├── EKG-KLT-FRM-24_ece_r43_parcalanma_test_raporu__dolu_ornek.xlsx
+│   │   ├── EKG-KLT-PLN-01_kontrol_plani__cfrl1_ozel_karakteristik_kolonlu.xlsx
+│   │   ├── EKG-KLT-PLN-07_kontrol_plani__cfrl1_eski_kolon_duzeni.xlsx
+│   │   └── EKG-KLT-PLN-08_yillik_kalibrasyon_plani__2024.xlsx
+│   ├── 05_Üretime Başlangıç ve Hata Önleme/ [boş]
+│   ├── 06_Garanti Sorunları Yönetimi/ [boş]
+│   ├── 07_Standart İş ve Uygunsuz Ürün/ [boş]
+│   ├── 09_Risk Azaltma ve PFMEA/
+│   │   └── EKG-PRJ-FRM-04_proses_fmea__cfrl1_uygulama_ornegi.xlsx
+│   ├── 10_Değişiklik ve Geçici Proses Kontrolü/ [boş]
+│   ├── 11_Bakım, Yedek Parça ve Takımlar/ [boş]
+│   ├── 12_Üretim ve Malzeme Akış Yönetimi/ [boş]
+│   ├── 13_Giriş Lojistiği ve Depolama/ [boş]
+│   ├── 14_Çıkış Lojistiği ve Ambalaj/ [boş]
+│   ├── 15_Katmanlı Denetim ve Yetkinlik/ [boş]
+│   ├── 16_Ürün Tasarımı ve Teknik Doğrulama/ [boş]
+│   └── 90_NSA, MPA ve PPQ Hazırlık Araçları/ [boş]
+└── 99_Dış_Kaynaklı_Dokümanlar/
+    ├── 01_MRS_PDF_Özgünleri/ [boş]
+    ├── 02_NSA_Özgün_Dosya/ [boş]
+    ├── 03_QRS_CSR_AQR/ [boş]
+    ├── 04_TRIS_Teknik_Paket/ [boş]
+    ├── 05_Standart_ve_Rehberler/ [boş]
+    └── 06_Sertifika_Tip_Onayı_ve_Sözleşme/ [boş]
