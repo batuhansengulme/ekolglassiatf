@@ -1,5 +1,6 @@
 ﻿EKG-YNT-LST-12 | KLASÖR AĞACI
-İlk yayın: 04.05.2026 | Revizyon: 19.10.2026
+İlk yayın: 15.06.2026 | Revizyon: 30.09.2026
+Revizyon nedeni: Klasör ağacının kontrollü tarih bilgileri ana listeyle eşleştirildi.
 256 kaynak belge kimliği + 2 ek liste kimliği; 260 özgün kaynak yolu Excel ana listesinde.
 
 EKG_Kalite_Yönetim_Sistemi/
