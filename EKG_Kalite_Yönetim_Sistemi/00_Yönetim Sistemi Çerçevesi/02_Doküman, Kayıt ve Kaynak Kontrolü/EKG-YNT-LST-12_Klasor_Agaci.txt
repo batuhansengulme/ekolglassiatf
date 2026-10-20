@@ -158,7 +158,8 @@ EKG_Kalite_Yönetim_Sistemi/
 │       └── EKG-KLT-PRS-22_ece_r43_cam_kontrol_ve_parcalanma_testi_proseduru.docx
 ├── 05_Üretime Başlangıç ve Hata Önleme/
 │   ├── 01_SP&EP1 - Başlangıç ve İlk Parça/ [boş]
-│   ├── 02_SP&EP2 - Hata Önleme ve Alternatif Kontrol/ [boş]
+│   ├── 02_SP&EP2 - Hata Önleme ve Alternatif Kontrol/
+│   │   └── EKG-KLT-LST-02_Hata Önleme Düzenekleri Listesi ve Ana (Kırmızı Tavşan) Numune Listesi.xlsx
 │   └── 03_SP&EP3 - Seviye 1 Operatör Bakımı/ [boş]
 ├── 06_Garanti Sorunları Yönetimi/
 │   ├── 01_WIM1 - Koordinatör, Portal ve İade Parça/
@@ -168,7 +169,7 @@ EKG_Kalite_Yönetim_Sistemi/
 │   │   └── EKG-KLT-PNO-02_garanti_gostergeleri_ve_is_istasyonu_uyari_panosu.xlsx
 │   ├── 02_WIM2 - Ön Analiz, Kaynak ve Çevreleme/
 │   │   ├── EKG-KLT-FRM-39_garanti_arizasini_tekrar_olusturma_ve_test_sonuclari.xlsx
-│   │   ├── EKG-KLT-FRM-42_garanti_on_analiz_kontrol_listesi_ve_raporu.xlsx
+│   │   ├── EKG-KLT-FRM-45_garanti_on_analiz_kontrol_listesi_ve_raporu.xlsx
 │   │   └── EKG-KLT-MTR-02_garanti_olayi_ciddiyeti_ve_eskalasyon_matrisi.xlsx
 │   └── 03_WIM3 - Müşteri Koruma, Tier-N ve TSB/
 │       ├── EKG-KLT-FRM-41_garanti_kriz_yonetimi_kontrol_listesi.xlsx
