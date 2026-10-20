@@ -1,7 +1,7 @@
 ﻿EKG-YNT-LST-12 | KLASÖR AĞACI
 İlk yayın: 15.06.2026 | Revizyon: 30.09.2026
-Revizyon nedeni: Klasör ağacının kontrollü tarih bilgileri ana listeyle eşleştirildi.
-256 kaynak belge kimliği + 2 ek liste kimliği; 260 özgün kaynak yolu Excel ana listesinde.
+Revizyon nedeni: 05 bölümünün üç alt klasöründeki sekiz belge ve FRM-45 dosya yolu ağaca işlendi.
+264 belge kimliği + 2 ek liste kimliği; 260 özgün arşiv kaynak yolu ve 8 yeni belgenin MRS kaynağı Excel ana listesinde.
 
 EKG_Kalite_Yönetim_Sistemi/
 ├── 00_Yönetim Sistemi Çerçevesi/
@@ -157,10 +157,17 @@ EKG_Kalite_Yönetim_Sistemi/
 │       ├── EKG-KLT-PRS-05_ic_ve_dis_laboratuvar_yonetimi_proseduru_cop_ve_musteri.docx
 │       └── EKG-KLT-PRS-22_ece_r43_cam_kontrol_ve_parcalanma_testi_proseduru.docx
 ├── 05_Üretime Başlangıç ve Hata Önleme/
-│   ├── 01_SP&EP1 - Başlangıç ve İlk Parça/ [boş]
+│   ├── 01_SP&EP1 - Başlangıç ve İlk Parça/
+│   │   ├── EKG-URT-FRM-02_Devreye Alma Kontrol Listesi (istasyon bazında).xlsx
+│   │   ├── EKG-URT-FRM-03_İlk Parça - Son Parça Onay Kaydı.xlsx
+│   │   └── EKG-URT-PRS-02_Devreye Alma (Start-up) ve Set-up Doğrulama Prosedürü.docx
 │   ├── 02_SP&EP2 - Hata Önleme ve Alternatif Kontrol/
-│   │   └── EKG-KLT-LST-02_Hata Önleme Düzenekleri Listesi ve Ana (Kırmızı Tavşan) Numune Listesi.xlsx
-│   └── 03_SP&EP3 - Seviye 1 Operatör Bakımı/ [boş]
+│   │   ├── EKG-KLT-FRM-10_Hata Önleme Doğrulama, Arıza ve Reaksiyon Kayıt Formu.xlsx
+│   │   ├── EKG-KLT-FRM-42_Hata Önleme Arızasında Alternatif Kontrol Yöntemi ve Müşteri Onay Kaydı (K).xlsx
+│   │   ├── EKG-KLT-LST-02_Hata Önleme Düzenekleri Listesi ve Ana (Kırmızı Tavşan) Numune Listesi.xlsx
+│   │   └── EKG-KLT-PRS-08_Hata Önleme (Poka-Yoke) Yönetimi Prosedürü.docx
+│   └── 03_SP&EP3 - Seviye 1 Operatör Bakımı/
+│       └── EKG-BKM-TLM-02_Seviye 1 (Otonom) Bakım Talimatları ve Vardiya Kontrol Listesi.docx
 ├── 06_Garanti Sorunları Yönetimi/
 │   ├── 01_WIM1 - Koordinatör, Portal ve İade Parça/
 │   │   ├── EKG-KLT-FRM-40_garanti_koordinatoru_ve_gorev_atama_kaydi.xlsx
